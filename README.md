@@ -14,3 +14,13 @@ Bibliotecas utilizadas:
  
  
 ![](https://i.imgur.com/zv4EUDi.png)
+
+![](https://i.imgur.com/5LTLev4.png)
+
+![](https://i.imgur.com/Jir61jI.png)
+
+![](https://i.imgur.com/gaYpkD2.png)
+
+![](https://i.imgur.com/zv4EUDi.png)
+
+![](https://i.imgur.com/CT7Da7H.png)
