@@ -3,6 +3,7 @@
 Detecção facial frontal de vídeos com python. O algoritmo visa marcar no vídeo desejado a detecção facial frontal dos indivíduos.
 
 Bibliotecas utilizadas:
+
  os
  
  cv2
