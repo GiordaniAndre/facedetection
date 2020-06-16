@@ -8,7 +8,7 @@ Bibliotecas utilizadas:
  
  cv2
  
- numpy as np
+ numpy
  
  matplotlib.pyplot
  
